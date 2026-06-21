@@ -10,43 +10,43 @@
     },
     {
       "name": "EntryAbility_label",
-      "value": "SmartHome"
+      "value": "智能家居"
     },
     {
       "name": "livingRoom",
-      "value": "living room"
+      "value": "客厅"
     },
     {
       "name": "bedroom",
-      "value": "bedroom"
+      "value": "卧室"
     },
     {
       "name": "entrance",
-      "value": "entrance"
+      "value": "入口"
     },
     {
       "name": "all",
-      "value": "all"
+      "value": "全部"
     },
     {
       "name": "device_not_found",
-      "value": "device is not found"
+      "value": "没有找到设备"
     },
     {
       "name": "smart_home_control",
-      "value": "smart home control"
+      "value": "智能家居遥控"
     },
     {
       "name": "living_room_main_light",
-      "value": "living room main light"
+      "value": "客厅主灯"
     },
     {
       "name": "bedroom_air_conditioner",
-      "value": "bedroom air conditioner"
+      "value": "卧室空调"
     },
     {
       "name": "front_door_lock",
-      "value": "front door lock"
+      "value": "入户门锁"
     }
   ]
 }

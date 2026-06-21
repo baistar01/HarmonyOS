@@ -67,18 +67,16 @@
     "BUILD_ANALYSIS_MODE": "normal",
     "TASK_TIME": {
       "923fe53966c6cd9343e11af776cd4b05be315ea4b200b02e4d5dfb0f929b73bf": {
-        "CreateModuleInfo": 192250,
-        "PreCheckSyscap": 108958,
-        "ProcessStartupConfig": 613125,
-        "PreviewProcessResource": 257459,
-        "PreviewCompileResource": 112959500,
-        "PreviewHookCompileResource": 124458,
-        "CopyPreviewProfile": 1678042,
-        "ReplacePreviewerPage": 552583,
-        "buildPreviewerResource": 74208,
-        "PreviewUpdateAssets": 498000,
-        "PreviewArkTS": 127230250,
-        "PreviewBuild": 88333
+        "CreateModuleInfo": 166625,
+        "PreCheckSyscap": 83917,
+        "ProcessStartupConfig": 1539500,
+        "PreviewProcessResource": 201208,
+        "PreviewHookCompileResource": 80792,
+        "ReplacePreviewerPage": 583166,
+        "buildPreviewerResource": 63208,
+        "PreviewUpdateAssets": 414083,
+        "PreviewArkTS": 3018645000,
+        "PreviewBuild": 247583
       }
     },
     "CUSTOM_TASK_TIME": {},
@@ -91,7 +89,7 @@
       "ENABLE_CPP_FUNCTION_LEVEL_INCREMENTAL": false
     },
     "CONFIG_PROPERTIES": {},
-    "TOTAL_TIME": 347296292,
-    "BUILD_ID": "202606182111506610"
+    "TOTAL_TIME": 3106078333,
+    "BUILD_ID": "202606220244014670"
   }
 }
